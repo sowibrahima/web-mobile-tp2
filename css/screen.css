@@ -1,0 +1,40 @@
+* {
+    font-size: 16px;
+}
+
+html {
+    font-size:62.5%
+}
+
+body {
+    font-size: 1.4rem;
+}
+
+h1 {
+    font-size: 8vw;
+}
+
+
+#p1 {
+    background-color: #0000ff;
+}
+
+#p2{
+    background-color: #ffffff;
+}
+
+#p3{
+    background-color: #ff0000;
+}
+
+table {
+    border: 1px solid #000000
+}
+
+table tr td {
+    border: 1px solid #9C9C9C;
+}
+
+table tr td:first-child {
+    background-color: #bababa;
+}

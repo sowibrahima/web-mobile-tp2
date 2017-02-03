@@ -1,0 +1,49 @@
+* {
+    font-size: 16px;
+}
+
+html {
+    font-size:62.5%
+}
+
+body {
+    font-size: 1.4rem;
+}
+
+h1 {
+    font-size: 8vw;
+}
+
+p {
+    font
+}
+
+#p1 {
+    background-color: #00ff00;
+}
+
+#p2{
+    background-color: #ffff00;
+}
+
+#p3{
+    background-color: #ff0000;
+}
+
+img {
+    width: 100%;
+}
+
+table {
+    border: 1px solid #000000;
+    width: 90vw;
+}
+
+table tr td{
+    width: 90vw;
+    display: inline-block;
+}
+
+table tr td:first-child {
+    background-color: #bababa;
+}
